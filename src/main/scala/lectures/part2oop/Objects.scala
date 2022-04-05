@@ -32,5 +32,4 @@ object Objects extends App {
     
   // Scala Applications = Scala object with
   // def main(args: Array[String]): Unit
-  val k = 6.67e-11
 }
