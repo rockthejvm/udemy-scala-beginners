@@ -146,6 +146,8 @@ project/plugins/project/
 .history
 .cache
 .lib/
+.bsp
+.idea
 
 ### Scala ###
 
