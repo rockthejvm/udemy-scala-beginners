@@ -1,4 +1,4 @@
-package lectures.part4pm
+package lectures.part4power
 
 import exercises._
 
